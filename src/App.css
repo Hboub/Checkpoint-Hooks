@@ -1,0 +1,12 @@
+.navmenu {
+  display: flex;
+  justify-content: space-between;
+  background-color: #191d3a;
+  padding: 10px;
+  max-width: 1000px;
+  margin: auto;
+}
+.addMovie:hover {
+  background-color: #ec5990 !important;
+  color: black !important;
+}
